@@ -1,0 +1,59 @@
+{
+    "start_url": "https://ura.news",
+    "domain": "ura.news",
+    "max_depth": 2,
+    "workers": 5,
+    "max_pages": 30,
+    "pages_processed": 30,
+    "pages_downloaded": 30,
+    "pages_with_text": 30,
+    "total_useful_words": 8421,
+    "found_links_total": 37,
+    "http_statuses": {
+        "200": 30
+    },
+    "top_10_words": [
+        [
+            "год",
+            143
+        ],
+        [
+            "быть",
+            138
+        ],
+        [
+            "зеленский",
+            88
+        ],
+        [
+            "россия",
+            83
+        ],
+        [
+            "трамп",
+            57
+        ],
+        [
+            "президент",
+            57
+        ],
+        [
+            "первый",
+            56
+        ],
+        [
+            "украина",
+            54
+        ],
+        [
+            "владимир",
+            50
+        ],
+        [
+            "путин",
+            48
+        ]
+    ],
+    "errors_count": 0,
+    "errors_sample": []
+}
